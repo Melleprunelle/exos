@@ -1,0 +1,227 @@
+html{
+	background:#232323;
+}
+
+#container {
+	background:#232323;
+        margin-left:auto;
+	margin:auto;
+	width:1020px;
+	height:630px;
+}
+
+p {
+	color:white;
+	font-family:sans-serif;
+	font-size:10px;
+	margin-left:8px;
+	margin-bottom:2px;
+}
+
+h1 {
+	font-size:18px;
+	color:white;
+	margin-left:10px;
+	float:left;
+	font-family:helvetica;
+	margin-top:30px;
+}
+
+h2 {
+	font-size:18px;
+	color:white;
+	font-family:helvetica;
+	float:right;
+	margin-top:30px;
+	margin-right:20px;
+}
+
+#divshot {
+	background:#37BBD2;
+	width:1005px;
+	height:75px;
+	
+}
+
+#head {
+	float:left;
+	width:55px;
+	height:55px;
+	margin:10px;
+	margin-left:20px;
+	background-image:url(elements/employe.png);
+	background-position:center, center;
+	background-size:100%,100%;
+}
+
+
+.menu {
+	width:100%;
+	height:30px;
+	/*background:green;*/
+	background-color:rgba(0,0,0,0.5);
+	position:absolute;
+	bottom:0px;
+	background-image:url(elements/fleche.png);
+	background-repeat:no-repeat;
+	background-position:95%, center;
+	background-size:15px;
+}
+
+.colonne {
+	width:330px;
+	height:100%;
+	background:#232323;
+	float:left;
+	margin-right:7px;
+}
+
+#leader {
+	width:100%;
+	height:350px;
+	background:#F5F5F5;
+	background-image:url(elements/trophy.png);
+	background-repeat:no-repeat;
+	background-position:center, center;
+	background-size:50%;
+	margin-top:7px;
+	position:relative;
+}
+
+#entertainment {
+	background:#FA8A7E;
+	width:161px;
+	height:140px;
+	margin-top:7px;
+	float:left;
+	position:relative;
+	background-image:url(elements/mask.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+
+}
+
+#sports {
+        background:#B483FF;
+        width:161px;
+        height:140px;
+        margin-top:7px;
+	margin-left:7px;
+	float:right;
+	position:relative;
+	background-image:url(elements/ball.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#food {
+	background:#B7F6C9;
+        width:161px;
+        height:140px;
+        margin-top:7px;
+        float:left;
+	position:relative;
+	background-image:url(elements/food.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#general {
+	background:#FBFF86;
+        width:161px;
+        height:140px;
+        margin-top:7px;
+        margin-left:7px;
+        float:right;
+	position:relative;
+	background-image:url(elements/open-book.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#geography{
+	width:100%;
+        height:350px;
+        background:#FA8A7E;
+        margin-top:7px;
+	float:right;
+	position:relative;
+        background-image:url(elements/planet.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#history {
+	width:100%;
+        height:203px;
+        background:#7EFEFF;
+        margin-top:7px;
+        float:right;
+	position:relative;
+        background-image:url(elements/tyrannosaurus-rex.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#ensemble4 {
+	width:100%;
+	height:300px;
+}
+
+#science {
+	background:#B7F6C9;
+	width:161px;
+	height:140px;
+	margin-top:7px;
+	float:left;
+	position:relative;
+        background-image:url(elements/flask.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#tv {
+	background:#B483FF;
+        width:161px;
+        height:140px;
+        margin-top:7px;
+        float:right;
+	position:relative;
+        background-image:url(elements/popcorn.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#music {
+	background:#7EFEFF;
+	width:161px;
+	height:140px;
+	margin-top:7px;
+	float:left;
+	position:relative;
+        background-image:url(elements/radio.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
+
+#profil {
+	background:#F5F5F5;
+        width:161px;
+        height:140px;
+        margin-top:7px;
+        float:right;
+	position:relative;
+        background-image:url(elements/team.png);
+        background-repeat:no-repeat;
+        background-position:center, center;
+        background-size:50%;
+}
